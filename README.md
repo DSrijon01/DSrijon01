@@ -1,23 +1,25 @@
-<h1 align="center">Hi 👋, I'm Nibraz Khan</h1>
+<h1 align="center">Hi 👋, I'm Srijon Biswas</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2686B0&center=true&vCenter=true&width=450&lines=Software+Quality+%26+Automation+Engineer.)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="270" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
-- 🌱 I’m currently learning **Automation testing frameworks,CI/CD pipeline.**
+- 🔭 **I’m currently working with Python and Java based Automation Test Frameworks**
+- 🌱 **I’m currently learning Cypress Frame Work For Test Automation**
+- 👯 **I’m looking to collaborate on Health-Tech based Enterprise Solution Automation Frameworks and Tools.**
+- 🤔 **I’m looking for help with skill based portfolio diversification.**
+- 💬 **Ask me about anything and will try to reach back at you.**
+- 📫 **How to reach me: srijonbiswas17@gmail.com**
+- 😄 **Pronouns: He/Him**
+- ⚡ **Fun fact: I love to ride on my Motorcycle.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NibrazKhan?tab=repositories](https://github.com/NibrazKhan?tab=repositories)
 
-- 💬 Ask me about **Software testing,strategies,Automation testing frameworks,Manual Testing.**
-
-- 📫 You can reach me at: **nibrajkhan123@gmail.com**
-
-Favourite Quote: **"Stop acting so small.You are the entire universe in ecstatic motion."**
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/nibraz-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nibraz-khan" height="30" width="40" /></a>
-<a href="https://fb.com/farhanfuhad.nibraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhanfuhad.nibraj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nibrajkhan123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nibrajkhan123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/srijon-biswas-85804312a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijon-biswas" height="30" width="40" /></a>
+<a href="https://www.facebook.com/srijon000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srijon.biswas" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/srijonbiswas17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srijon17" height="30" width="40" /></a>
+<a href="https://twitter.com/dsrijon_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srijon17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,12 +32,4 @@ Favourite Quote: **"Stop acting so small.You are the entire universe in ecstatic
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="Mocha" width="42" height="42"/>
            </a>
            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </p>
-
-![Nibraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=NibrazKhan&theme=algolia&show_icons=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NibrazKhan&theme=highcontrast)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NibrazKhan)](https://github.com/NibrazKhan/github-readme-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nibrazkhan&label=Profile%20views&color=0e75b6&style=flat" alt="nibrazkhan" /> </p>
-
+           
