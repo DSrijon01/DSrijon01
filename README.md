@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srijon Biswas</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2686B0&center=true&vCenter=true&width=450&lines=Software+Quality+%26+Automation+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2686B0&center=true&vCenter=true&width=450&lines=Software+Quality+Assurance+%26+Automation+Engineer.)](https://git.io/typing-svg)
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
@@ -13,7 +13,7 @@
 - 💬 **Ask me about anything and will try to reach back at you.**
 - 📫 **How to reach me: srijonbiswas17@gmail.com**
 - 😄 **Pronouns: He/Him**
-- ⚡ **Fun fact: I am a Automobile Enthusiast**
+- ⚡ **Fun fact: I am an Automobile Enthusiast**
 
 
 
