@@ -6,14 +6,14 @@
   <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 </a>
 
-- 🔭 **I’m currently working with Python and Java based Automation Test Frameworks**
+- 🔭 **I’m currently working with Tricentis Tosca for Test Automation on AEM(Adobe Experience Manager) Digital Experience Platform**
 - 🌱 **I’m currently learning Cypress Frame Work For Test Automation**
-- 👯 **I’m looking to collaborate on Health-Tech based Enterprise Solution Automation Frameworks and Tools.**
+- 👯 **I’m looking to collaborate on CMS (Content Management System) based Enterprise Solution Automation Frameworks and Tools.**
 - 🤔 **I’m looking for help with skill based portfolio diversification.**
 - 💬 **Ask me about anything and will try to reach back at you.**
 - 📫 **How to reach me: srijonbiswas17@gmail.com**
 - 😄 **Pronouns: He/Him**
-- ⚡ **Fun fact: I love to ride on my Motorcycle.**
+- ⚡ **Fun fact: I am a Automobile Enthusiast**
 
 
 
