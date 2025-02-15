@@ -7,9 +7,9 @@
 </a>
 
 - 🔭 **I’m currently working with Tricentis Tosca for Test Automation on AEM(Adobe Experience Manager) Digital Experience Platform**
-- 🌱 **I’m currently learning Cypress Frame Work For Test Automation**
+- 🌱 **I’m currently learning Quality Assurance For Blockchain**
 - 👯 **I’m looking to collaborate on CMS (Content Management System) based Enterprise Solution Automation Frameworks and Tools.**
-- 🤔 **I’m looking for help with skill based portfolio diversification.**
+- 🤔 **I’m looking for help with skill based portfolio diversification for crypto and blockchain solution.**
 - 💬 **Ask me about anything and will try to reach back at you.**
 - 📫 **How to reach me: srijonbiswas17@gmail.com**
 - 😄 **Pronouns: He/Him**
